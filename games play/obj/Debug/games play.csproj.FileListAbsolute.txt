@@ -1,0 +1,37 @@
+C:\Users\DELL\Documents\games play\games play\bin\Debug\games play.exe.config
+C:\Users\DELL\Documents\games play\games play\bin\Debug\games play.exe
+C:\Users\DELL\Documents\games play\games play\bin\Debug\games play.pdb
+C:\Users\DELL\Documents\games play\games play\obj\Debug\games play.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\games play\games play\obj\Debug\games_play.Form1.resources
+C:\Users\DELL\Documents\games play\games play\obj\Debug\games_play.Properties.Resources.resources
+C:\Users\DELL\Documents\games play\games play\obj\Debug\games play.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\games play\games play\obj\Debug\games play.exe
+C:\Users\DELL\Documents\games play\games play\obj\Debug\games play.pdb
+D:\games play\games play\bin\Debug\games play.exe.config
+D:\games play\games play\obj\Debug\games play.exe
+D:\games play\games play\obj\Debug\games play.pdb
+D:\games play\games play\bin\Debug\games play.exe
+D:\games play\games play\bin\Debug\games play.pdb
+D:\games play\games play\obj\Debug\games play.csproj.AssemblyReference.cache
+D:\games play\games play\obj\Debug\games_play.Form1.resources
+D:\games play\games play\obj\Debug\games_play.Properties.Resources.resources
+D:\games play\games play\obj\Debug\games play.csproj.GenerateResource.cache
+D:\games play\games play\obj\Debug\games play.csproj.CoreCompileInputs.cache
+D:\projects\project\games play\games play\bin\Debug\games play.exe.config
+D:\projects\project\games play\games play\obj\Debug\games play.exe
+D:\projects\project\games play\games play\obj\Debug\games play.pdb
+D:\projects\project\games play\games play\bin\Debug\games play.exe
+D:\projects\project\games play\games play\bin\Debug\games play.pdb
+D:\projects\project\games play\games play\obj\Debug\games play.csprojResolveAssemblyReference.cache
+D:\projects\project\games play\games play\obj\Debug\games_play.Form1.resources
+D:\projects\project\games play\games play\obj\Debug\games_play.Properties.Resources.resources
+D:\projects\project\games play\games play\obj\Debug\games play.csproj.GenerateResource.Cache
+C:\Users\Saroo\Desktop\project\games play\games play\bin\Debug\games play.exe.config
+C:\Users\Saroo\Desktop\project\games play\games play\obj\Debug\games play.exe
+C:\Users\Saroo\Desktop\project\games play\games play\obj\Debug\games play.pdb
+C:\Users\Saroo\Desktop\project\games play\games play\bin\Debug\games play.exe
+C:\Users\Saroo\Desktop\project\games play\games play\bin\Debug\games play.pdb
+C:\Users\Saroo\Desktop\project\games play\games play\obj\Debug\games play.csprojResolveAssemblyReference.cache
+C:\Users\Saroo\Desktop\project\games play\games play\obj\Debug\games_play.Form1.resources
+C:\Users\Saroo\Desktop\project\games play\games play\obj\Debug\games_play.Properties.Resources.resources
+C:\Users\Saroo\Desktop\project\games play\games play\obj\Debug\games play.csproj.GenerateResource.Cache
